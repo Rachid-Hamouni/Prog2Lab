@@ -2,7 +2,7 @@ package CodiBase.test.prog2.model;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import CodiBase.ExcepcioReserva;
+import prog2.ExcepcioReserva;
 
 import java.time.LocalDate;
 

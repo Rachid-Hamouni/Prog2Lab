@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.time.LocalDate;
-import CodiBase.ExcepcioReserva;
+import prog2.ExcepcioReserva;
 
 public class LlistaReservesTest {
 

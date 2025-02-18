@@ -1,10 +1,10 @@
 
-package CodiBase;
+package prog2.model;
+
+import prog2.ExcepcioReserva;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-
-import CodiBase.ExcepcioReserva;
 
 /**
  * Interfície per definir la forma del Càmping

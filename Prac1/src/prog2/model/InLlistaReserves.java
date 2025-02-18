@@ -1,7 +1,9 @@
 
-package CodiBase;
+package prog2.model;
 
 import java.time.LocalDate;
+
+import prog2.ExcepcioReserva;
 import prog2.vista.ExcepcioReserva;
 
 /**
@@ -19,7 +21,7 @@ public interface InLlistaReserves {
      * @param client
      * @param dataEntrada
      * @param dataSortida
-     * @throws ExcepcioReserva 
+     * @throws ExcepcioReserva
      */
      void afegirReserva(Allotjament allotjament, Client client, LocalDate dataEntrada, LocalDate dataSortida) throws ExcepcioReserva;
 

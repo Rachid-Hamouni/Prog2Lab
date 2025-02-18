@@ -1,5 +1,5 @@
 
-package CodiBase;
+package prog2;
 
 import prog2.model.Camping;
 

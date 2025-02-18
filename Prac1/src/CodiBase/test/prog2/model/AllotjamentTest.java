@@ -3,7 +3,6 @@ package CodiBase.test.prog2.model;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import CodiBase.ExcepcioReserva;
 
 class AllotjamentTest {
 
